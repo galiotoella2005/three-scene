@@ -6,7 +6,7 @@ import { cpSync, existsSync } from 'node:fs'
 // const copyDirs = ['images', 'models', 'data']
 // For now, we just have images/ so this is sufficient:
 
-const copyDirs = ['images']
+const copyDirs = ['images', 'loaders']
 
 export default defineConfig({
   base: './',          // relative URLs, so the site works at any GitHub Pages address
