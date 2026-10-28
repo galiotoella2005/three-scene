@@ -18,6 +18,15 @@
     "vite": "^8.3.5"
   },
   "dependencies": {
+    "@11ty/eleventy": "^3.1.7",
     "three": "^0.186.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galiotoella2005/three-scene.git"
+  },
+  "bugs": {
+    "url": "https://github.com/galiotoella2005/three-scene/issues"
+  },
+  "homepage": "https://github.com/galiotoella2005/three-scene#readme"
 }
